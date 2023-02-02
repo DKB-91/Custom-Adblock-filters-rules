@@ -1,0 +1,243 @@
+! Title: Vivaldi Adblock Filters (personal)
+! Version: 0.1
+
+www.gamespot.com##.vid
+
+gamefaqs.gamespot.com##.vid
+
+gamefaqs.gamespot.com##.pod.video
+
+www.gamespot.com##.pod.video
+
+gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
+
+www.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
+
+search.brave.com##.discussion.svelte-10n95qb
+
+search.brave.com###news-carousel
+
+gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
+
+www.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
+
+gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_leader_top
+
+www.gamespot.com##.js-mapped-ad.ad.ad_leader_top
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(17)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(11)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(29)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(26)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(25)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(16)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(18)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(36)
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(37)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(33)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(24)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(35)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(29)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(15)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(38)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(30)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(32)
+
+fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(37)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(33)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(35)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(32)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(37)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(38)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(29)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(30)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(15)
+
+fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(24)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(17)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(29)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(36)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(37)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(26)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(25)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(18)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(16)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(11)
+
+mangadex.org##div.mt-2:nth-of-type(6) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(8)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(6) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(8)
+
+mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(7)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(7)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
+
+mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(24)
+
+mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(24)
+
+r4xwl0p6b8kv.statuspage.io##span.flex.items-center.chip:nth-of-type(28)
+
+mangadex.org##span.flex.items-center.chip:nth-of-type(28)
+
+mangadex.org##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(2)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(2)
+
+mangadex.org##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
+
+mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(11)
+
+r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(11)
+
+mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(12)
+
+fanfox.net##.manga-list-1-list.line
+
+fanfox.net##.manga-list-1-title
+
+fanfox.net##.comment-list.commentcontent
+
+fanfox.net##.comment-list.mf-list > div.comment-list-item:nth-of-type(1)
+
+fanfox.net##p.detail-main-list-title.mt40:nth-of-type(2)
+
+www.mangahere.cc##[href*="http://www.mangahome.com/shoujo"]
+
+www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(39)
+
+www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(39)
+
+www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
+
+www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
+
+www.youtube.com##.opened
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(16)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(35)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(36)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(17)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(24)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(28)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(10)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(15)
+
+www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(25)
+
+search.brave.com##.svelte-bagkzx.discussion
+
+gamefaqs.gamespot.com##.gs_deals.pod
+
+www.startpage.com##.footer-home__social
+
+||cdn.search.brave.com/serp/v1/static/serp-js/telemetry/*$script,domain=search.brave.com
+
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+
+gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
+
+gamefaqs.gamespot.com##.span8 > div.pod > .head
+
+search.brave.com##.svelte-10n95qb.discussion
+
+gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
+
+
+m.youtube.com##div.legal-text:nth-of-type(1)
+
+m.youtube.com##.dialog-scrollable-content
+
+m.youtube.com##.dialog-topbar
+
+m.youtube.com##.brand-background.mandatory-consent-v2-kickin.eom-dialog
+
+m.youtube.com##.eom-dialog-container
+
+m.youtube.com##.consent-bump-v2-lightbox
+
+gamefaqs.gamespot.com##li.align-c:nth-of-type(3)
+
+gamefaqs.gamespot.com##li.align-c:nth-of-type(2)
+
+gamefaqs.gamespot.com##li.align-c:nth-of-type(1)
+
+gamefaqs.gamespot.com##li.align-c
+
+m.youtube.com##ytm-reel-shelf-renderer
+
+m.youtube.com##.cbox.ytm-autonav-bar
+
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+
+search.brave.com##.svelte-1y0o3lb.discussion
+
+fanfox.net##.side-code
+
+fanfox.net##.side-top
+
+www.mangahere.cc##.mf-list.comment-list
+
+www.mangahere.cc##p.mt40.detail-main-list-title:nth-of-type(2)
+
+www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
+
+m.youtube.com##ytm-media-item
+
+search.brave.com##div.block:nth-of-type(2) > div:nth-of-type(3) > .text-sm.text-gray
+
+search.brave.com##div:nth-of-type(8)
+
+gamefaqs.gamespot.com###onetrust-group-container
+
+www.gamespot.com###onetrust-group-container
+
+gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
+
+www.gamespot.com##.ot-sdk-container > .ot-sdk-row
