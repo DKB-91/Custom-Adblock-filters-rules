@@ -243,5 +243,7 @@ gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
 www.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
+
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
 
