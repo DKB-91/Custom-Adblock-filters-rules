@@ -1,6 +1,6 @@
-
 ! Title: Vivaldi Adblock Filters (personal)
 ! Version: 0.1
+! Expires: 7 days
 
 www.gamespot.com##.vid
 
@@ -247,3 +247,4 @@ m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.
 
 m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
 
+m.youtube.com##ytm-media-item
