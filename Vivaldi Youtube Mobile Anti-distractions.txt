@@ -1,6 +1,6 @@
+[Adblock Plus 2.0]
 ! Title: Vivaldi Youtube Mobile Anti-distractions (personal)
 ! Version: 0.1
-! Expires: 7 days
 
 m.youtube.com##ytm-media-item
 
