@@ -1,6 +1,15 @@
 ! Title: Vivaldi Adblock Filters (personal)
 ! Version: 0.1
-! Expires: 7 days
+
+m.youtube.com##ytm-media-item
+
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
+
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
+
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+
+m.youtube.com##ytm-reel-shelf-renderer
 
 www.gamespot.com##.vid
 
@@ -190,7 +199,6 @@ search.brave.com##.svelte-10n95qb.discussion
 
 gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
 
-
 m.youtube.com##div.legal-text:nth-of-type(1)
 
 m.youtube.com##.dialog-scrollable-content
@@ -211,11 +219,7 @@ gamefaqs.gamespot.com##li.align-c:nth-of-type(1)
 
 gamefaqs.gamespot.com##li.align-c
 
-m.youtube.com##ytm-reel-shelf-renderer
-
 m.youtube.com##.cbox.ytm-autonav-bar
-
-m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
 
 search.brave.com##.svelte-1y0o3lb.discussion
 
@@ -229,8 +233,6 @@ www.mangahere.cc##p.mt40.detail-main-list-title:nth-of-type(2)
 
 www.youtube.com###voice-search-button > .size-default.style-default.ytd-masthead.style-scope > .ytd-button-renderer.style-scope.yt-simple-endpoint > .size-default.style-default.ytd-button-renderer.style-scope
 
-m.youtube.com##ytm-media-item
-
 search.brave.com##div.block:nth-of-type(2) > div:nth-of-type(3) > .text-sm.text-gray
 
 search.brave.com##div:nth-of-type(8)
@@ -242,9 +244,3 @@ www.gamespot.com###onetrust-group-container
 gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
 www.gamespot.com##.ot-sdk-container > .ot-sdk-row
-
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
-
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
-
-m.youtube.com##ytm-media-item
