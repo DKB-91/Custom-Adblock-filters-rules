@@ -1,15 +1,5 @@
-! Title: Vivaldi Adblock Filters (personal)
+! Title: Vivaldi Annoyance Filters (personal)
 ! Version: 0.1
-
-m.youtube.com##ytm-media-item
-
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
-
-m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
-
-m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
-
-m.youtube.com##ytm-reel-shelf-renderer
 
 www.gamespot.com##.vid
 
@@ -199,18 +189,6 @@ search.brave.com##.svelte-10n95qb.discussion
 
 gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
 
-m.youtube.com##div.legal-text:nth-of-type(1)
-
-m.youtube.com##.dialog-scrollable-content
-
-m.youtube.com##.dialog-topbar
-
-m.youtube.com##.brand-background.mandatory-consent-v2-kickin.eom-dialog
-
-m.youtube.com##.eom-dialog-container
-
-m.youtube.com##.consent-bump-v2-lightbox
-
 gamefaqs.gamespot.com##li.align-c:nth-of-type(3)
 
 gamefaqs.gamespot.com##li.align-c:nth-of-type(2)
@@ -218,8 +196,6 @@ gamefaqs.gamespot.com##li.align-c:nth-of-type(2)
 gamefaqs.gamespot.com##li.align-c:nth-of-type(1)
 
 gamefaqs.gamespot.com##li.align-c
-
-m.youtube.com##.cbox.ytm-autonav-bar
 
 search.brave.com##.svelte-1y0o3lb.discussion
 
