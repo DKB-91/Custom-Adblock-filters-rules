@@ -221,3 +221,5 @@ www.gamespot.com###onetrust-group-container
 gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
 www.gamespot.com##.ot-sdk-container > .ot-sdk-row
+
+gamefaqs.gamespot.com##.av-player-container
