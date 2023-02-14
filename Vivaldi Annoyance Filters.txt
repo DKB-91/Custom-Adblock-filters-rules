@@ -150,10 +150,6 @@ www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(39)
 
 www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
 
-www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
-
-www.youtube.com##.opened
-
 www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(16)
 
 www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(35)
