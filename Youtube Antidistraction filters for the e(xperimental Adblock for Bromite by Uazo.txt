@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Uazo's Experimental Adblock for Bromite Youtube Mobile Anti-distractions (personal)
+! Title: Youtube Antidistraction filters for the e(xperimental Adblock for Bromite by Uazo (personal)
 ! Version: 0.1
 
 m.youtube.com##ytm-media-item
