@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Uazo's Experinental Adblock for Bromite Annoyance Filters.txt (personal)
+! Title: Annoyance Filters for the experimental Adblock for Bromite by Uazo (personal)
 ! Version: 0.1
 
 www.gamespot.com##.vid
