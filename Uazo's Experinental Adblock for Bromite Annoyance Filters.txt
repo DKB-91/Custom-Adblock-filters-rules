@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Vivaldi Annoyance Filters (personal)
+! Title: Uazo's Experinental Adblock for Bromite Annoyance Filters.txt (personal)
 ! Version: 0.1
 
 www.gamespot.com##.vid
