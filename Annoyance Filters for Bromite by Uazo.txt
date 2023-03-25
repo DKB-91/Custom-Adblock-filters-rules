@@ -273,3 +273,33 @@ tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(21)
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(22)
 
 twitter.com##.r-95jzfe.r-ymttw5.r-1u4rb1m.r-1szxp23.r-16y2uox.r-18u37iz.r-5kkj8d.r-1efd50x.r-1dgieki.r-14lw9ot.r-1awozwy.css-1dbjc4n
+
+m.youtube.com##ytm-media-item
+
+m.youtube.com##ytm-reel-shelf-renderer
+
+m.youtube.com##ytm-item-section-renderer.scwnr-content:nth-of-type(2)
+
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2)
+
+m.youtube.com##ytm-item-section-renderer.single-column-watch-next-modern-panels.scwnr-content:nth-of-type(2) > lazy-list
+
+m.youtube.com##div.legal-text:nth-of-type(1)
+
+m.youtube.com##.dialog-scrollable-content
+
+m.youtube.com##.dialog-topbar
+
+m.youtube.com##.brand-background.mandatory-consent-v2-kickin.eom-dialog
+
+m.youtube.com##.eom-dialog-container
+
+m.youtube.com##.consent-bump-v2-lightbox
+
+m.youtube.com##.cbox.ytm-autonav-bar
+
+m.youtube.com##ytm-bottom-sheet-overlay-renderer
+
+m.youtube.com##.modern-overlay.bottom-sheet-overlay-scrim
+
+m.youtube.com##.mobile-topbar-header-sign-in-button
