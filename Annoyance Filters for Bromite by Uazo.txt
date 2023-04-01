@@ -272,6 +272,26 @@ tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(21)
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(22)
 
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(25)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(26)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(27)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(28)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(29)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(30)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(31)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(32)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(33)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(34)
+
 twitter.com##.r-95jzfe.r-ymttw5.r-1u4rb1m.r-1szxp23.r-16y2uox.r-18u37iz.r-5kkj8d.r-1efd50x.r-1dgieki.r-14lw9ot.r-1awozwy.css-1dbjc4n
 
 m.youtube.com##ytm-media-item
