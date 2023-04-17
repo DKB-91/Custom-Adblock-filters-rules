@@ -292,6 +292,34 @@ tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(33)
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(34)
 
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(35)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(36)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(36)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(37)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(38)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(39)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(40)
+
+www.twitch.tv##.scrollable-area--suppress-scroll-x.scrollable-area.cLsElM.InjectLayout-sc-1i43xsx-0 > .simplebar-scroll-content
+
+www.twitch.tv##.scrollable-area--suppress-scroll-x.scrollable-area.cLsElM.InjectLayout-sc-1i43xsx-0
+
+www.twitch.tv##.side-nav--expanded.side-nav.bbPHvU.Layout-sc-1xcs6mc-0 > .wZVfj.Layout-sc-1xcs6mc-0
+
+www.twitch.tv##.side-nav--expanded.side-nav.bbPHvU.Layout-sc-1xcs6mc-0
+
+gamefaqs.gamespot.com##.RedVentureVideoPlayer__RedVentureVideoTopPlaceholder-sc-1n97vdo-0.ljGdNb
+
+www.meteo.it##.minf-privacy-content
+
+www.mediaset.it##.minf-privacy-content
+
 twitter.com##.r-95jzfe.r-ymttw5.r-1u4rb1m.r-1szxp23.r-16y2uox.r-18u37iz.r-5kkj8d.r-1efd50x.r-1dgieki.r-14lw9ot.r-1awozwy.css-1dbjc4n
 
 m.youtube.com##ytm-media-item
