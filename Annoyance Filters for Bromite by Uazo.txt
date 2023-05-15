@@ -539,7 +539,3 @@ m.youtube.com##ytm-bottom-sheet-overlay-renderer
 m.youtube.com##.modern-overlay.bottom-sheet-overlay-scrim
 
 m.youtube.com##.mobile-topbar-header-sign-in-button
-
-gamefaqs.gamespot.com##.span4
-
-gamefaqs.gamespot.com##div.pod:nth-of-type(4)
