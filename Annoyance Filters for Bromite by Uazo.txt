@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Annoyance Filters for the experimental Adblock for Bromite by Uazo (personal)
-! Version: 0.1
+! Version: 0.4
 
 www.gamespot.com##.vid
 
@@ -26,147 +26,7 @@ gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_leader_top
 
 www.gamespot.com##.js-mapped-ad.ad.ad_leader_top
 
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(17)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(11)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(29)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(26)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(25)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(16)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(18)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(36)
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(37)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(33)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(24)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(35)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(29)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(15)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(38)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(30)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(32)
-
-fanfox.net##.browse-bar-filter-list > .container > ul > li:nth-of-type(37)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(33)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(35)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(32)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(37)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(38)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(29)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(30)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(15)
-
-fanfox.net##.update-bar-filter-list > .container > ul > li:nth-of-type(24)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(17)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(29)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(36)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(37)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(26)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(25)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(18)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(16)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(11)
-
-mangadex.org##div.mt-2:nth-of-type(6) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(8)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(6) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(8)
-
-mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(7)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(7)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
-
-mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(24)
-
-mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(24)
-
-r4xwl0p6b8kv.statuspage.io##span.flex.items-center.chip:nth-of-type(28)
-
-mangadex.org##span.flex.items-center.chip:nth-of-type(28)
-
-mangadex.org##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(2)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(2)
-
-mangadex.org##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(1) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(4)
-
-mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(11)
-
-r4xwl0p6b8kv.statuspage.io##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(11)
-
-mangadex.org##div.mt-2:nth-of-type(7) > .flex.flex-wrap.gap-2 > span.flex.items-center.chip:nth-of-type(12)
-
-fanfox.net##.manga-list-1-list.line
-
-fanfox.net##.manga-list-1-title
-
-fanfox.net##.comment-list.commentcontent
-
-fanfox.net##.comment-list.mf-list > div.comment-list-item:nth-of-type(1)
-
-fanfox.net##p.detail-main-list-title.mt40:nth-of-type(2)
-
-www.mangahere.cc##[href*="http://www.mangahome.com/shoujo"]
-
-www.mangahere.cc##.browse-bar-filter-list > .container > ul > li:nth-of-type(39)
-
-www.mangahere.cc##.update-bar-filter-list > .container > ul > li:nth-of-type(39)
-
 www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(16)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(35)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(36)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(17)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(24)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(28)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(10)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(15)
-
-www.mangahere.cc##a[href="javascript:void(0)"]:nth-of-type(25)
 
 search.brave.com##.svelte-bagkzx.discussion
 
@@ -345,6 +205,70 @@ tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(58)
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(59)
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(60)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(61)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(62)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(63)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(64)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(65)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(66)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(67)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(68)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(69)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(70)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(71)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(72)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(73)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(74)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(75)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(76)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(77)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(78)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(79)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(80)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(81)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(82)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(83)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(84)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(85)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(86)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(87)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(88)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(89)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(90)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(91)
+
+tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(92)
 
 tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
@@ -546,6 +470,30 @@ tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-
 
 tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(98)
 
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(99)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(100)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(101)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(102)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(103)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(104)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(105)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(106)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(107)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(108)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(109)
+
+tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(110)
+
 www.twitch.tv##.scrollable-area--suppress-scroll-x.scrollable-area.cLsElM.InjectLayout-sc-1i43xsx-0 > .simplebar-scroll-content
 
 www.twitch.tv##.scrollable-area--suppress-scroll-x.scrollable-area.cLsElM.InjectLayout-sc-1i43xsx-0
@@ -591,3 +539,7 @@ m.youtube.com##ytm-bottom-sheet-overlay-renderer
 m.youtube.com##.modern-overlay.bottom-sheet-overlay-scrim
 
 m.youtube.com##.mobile-topbar-header-sign-in-button
+
+gamefaqs.gamespot.com##.span4
+
+gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(3)
