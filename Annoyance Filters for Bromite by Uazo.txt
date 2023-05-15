@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Annoyance Filters for the experimental Adblock for Bromite by Uazo (personal)
-! Version: 0.4
+! Version: 0.6
 
 www.gamespot.com##.vid
 
