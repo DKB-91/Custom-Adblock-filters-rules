@@ -542,4 +542,4 @@ m.youtube.com##.mobile-topbar-header-sign-in-button
 
 gamefaqs.gamespot.com##.span4
 
-gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(3)
+gamefaqs.gamespot.com##div.pod:nth-of-type(4)
