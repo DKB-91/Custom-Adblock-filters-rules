@@ -516,6 +516,8 @@ search.brave.com##div.block:nth-of-type(2) > div:nth-of-type(3) > .text-sm.text-
 
 search.brave.com##div:nth-of-type(8)
 
+search.brave.com##.svelte-7j8x1w.discussion
+
 www.meteo.it##.minf-privacy-content
 
 www.mediaset.it##.minf-privacy-content
