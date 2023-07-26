@@ -524,6 +524,12 @@ www.mediaset.it##.minf-privacy-content
 
 twitter.com##.r-95jzfe.r-ymttw5.r-1u4rb1m.r-1szxp23.r-16y2uox.r-18u37iz.r-5kkj8d.r-1efd50x.r-1dgieki.r-14lw9ot.r-1awozwy.css-1dbjc4n
 
+github.com##.sticky-content > .flex-items-center.d-flex
+
+github.com##.is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky
+
+github.com##.js-notification-shelf-offset-top.color-shadow-small.gh-header-shadow
+
 m.youtube.com##ytm-media-item
 
 m.youtube.com##ytm-reel-shelf-renderer
