@@ -138,19 +138,7 @@ www.tgcom24.mediaset.it##.minf-privacy-content
 
 www.startpage.com##.footer-home__social
 
-||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=957a6971-9b9a-4b78-972b-6f2e3ed6f433&requestUUID=e833a723-bf3e-407a-8b5f-0762b0999c48&preload_message=true$subdocument
-
 ||cdn.search.brave.com/serp/v1/static/serp-js/telemetry/*$script,domain=search.brave.com
-
-www.foxnews.com##.sticky-columns.row > .sidebar-primary.sidebar > .sticky-region > .sidebar-columns > div.sidebar-panel > .js-on-now.has-live-stream.promo-watch-live.promo
-
-||static.foxnews.com/static/orion/html/fox-weather/ext-weather-widget.html?uid=weather-component-external-weather-widget-1$subdocument
-
-||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=873a0cc8-ce9a-4f12-97a3-f23cca64486b&requestUUID=b963268c-9419-4dc4-a6a4-f6e3f2f0c05d&preload_message=true$subdocument
-
-||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=873a0cc8-ce9a-4f12-97a3-f23cca64486b&requestUUID=b60780ec-dc68-474f-b061-ec07d8db526d&preload_message=true$subdocument
-
-||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=873a0cc8-ce9a-4f12-97a3-f23cca64486b&requestUUID=42735711-7867-450d-9d57-759d6c36cd1a&preload_message=true$subdocument
 
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 
@@ -161,8 +149,6 @@ www.lastampa.it###account-data-container-float > .ls-login-label
 tg24.sky.it##.c-login-bar__label
 
 www.tgcom24.mediaset.it###user_name
-
-www.usnews.com##.viZuu.account-button__SignIn-sc-5e0gts-2
 
 www.sbsun.com###dfm-digisubs-menu > .menu-item-3406304.menu-item-object-custom.menu-item-type-custom.menu-item.custom-button.subscribe-special.log-in-button > [href^="https://www.sbsun.com/login"]
 
@@ -206,16 +192,6 @@ www.corriere.it##.user
 
 www.corriere.it##.bck-box-newsletter
 
-news.yahoo.com##.player
-
-news.yahoo.com##.caas-yvideo-rendered.caas-yvideo-top.caas-yvideo
-
-news.yahoo.com##.caas-yvideo-elem.caas-cover.caas-hero.yvideo.caas-yvideo-wrapper
-
-news.yahoo.com##.caas-body > .caas-yvideo-elem.yvideo.caas-yvideo-wrapper
-
-news.yahoo.com##.caas-body > h3
-
 www.tgcom24.mediaset.it###bdConsentUI
 
 gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
@@ -257,8 +233,6 @@ www.startpage.com##[href="https://www.facebook.com/startpagesearch/"]
 www.startpage.com##[href="https://mastodon.social/@StartpageSearch"]
 
 www.startpage.com##[href="https://www.youtube.com/user/StartpageSearch"]
-
-||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=5c9a0761-2c78-44b5-bd45-750d404cf368&requestUUID=38ab73bd-1dea-42f4-a97d-3795eed224cb&preload_message=true$subdocument
 
 m.youtube.com##ytm-reel-shelf-renderer
 
