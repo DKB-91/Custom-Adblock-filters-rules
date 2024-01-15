@@ -120,8 +120,6 @@ www.forbes.com##.trustarc-banner-container
 
 search.brave.com##.svelte-bagkzx.discussion
 
-gamefaqs.gamespot.com##.gs_deals.pod
-
 www.tgcom24.mediaset.it##.minf-privacy-content
 
 www.startpage.com##.footer-home__social
@@ -182,25 +180,13 @@ www.corriere.it##.bck-box-newsletter
 
 www.tgcom24.mediaset.it###bdConsentUI
 
-gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
-
 search.brave.com##.svelte-10n95qb.discussion
-
-gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
 
 www.tgcom24.mediaset.it##.iubenda-banner-content-padded.iubenda-custom-content.iubenda-banner-content
 
 www.tgcom24.mediaset.it##.iubenda-cs-rationale
 
 www.tgcom24.mediaset.it##.minf-privacy-rationale
-
-gamefaqs.gamespot.com##li.align-c:nth-of-type(3)
-
-gamefaqs.gamespot.com##li.align-c:nth-of-type(2)
-
-gamefaqs.gamespot.com##li.align-c:nth-of-type(1)
-
-gamefaqs.gamespot.com##li.align-c
 
 www.startpage.com##[href="https://twitter.com/startpage"]
 
@@ -671,8 +657,6 @@ www.twitch.tv##.scrollable-area--suppress-scroll-x.scrollable-area.cLsElM.Inject
 www.twitch.tv##.side-nav--expanded.side-nav.bbPHvU.Layout-sc-1xcs6mc-0 > .wZVfj.Layout-sc-1xcs6mc-0
 
 www.twitch.tv##.side-nav--expanded.side-nav.bbPHvU.Layout-sc-1xcs6mc-0
-
-gamefaqs.gamespot.com##.RedVentureVideoPlayer__RedVentureVideoTopPlaceholder-sc-1n97vdo-0.ljGdNb
 
 m.youtube.com##ytm-bottom-sheet-overlay-renderer
 
