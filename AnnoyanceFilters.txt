@@ -46,14 +46,6 @@ search.brave.com##.discussion.svelte-10n95qb
 
 search.brave.com###news-carousel
 
-gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
-
-www.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
-
-gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_leader_top
-
-www.gamespot.com##.js-mapped-ad.ad.ad_leader_top
-
 www.tgcom24.mediaset.it##.iubenda-cs-content
 
 www.meteo.it##.iubenda-cs-content
@@ -105,8 +97,6 @@ static3.mediasetplay.mediaset.it##.root.on > a:nth-of-type(1)
 platform.twitter.com##.root.on > a:nth-of-type(1)
 
 platform.twitter.com##.root.on > a:nth-of-type(1)
-
-www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
 
 www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 
@@ -304,8 +294,6 @@ tg24.sky.it##.j-player-carousel-element.u-video-sticky
 
 ||translate.google.com/_/TranslateWebserverUi/browserinfo
 
-||saa.gamespot.com^$script,domain=gamefaqs.gamespot.com
-
 ||www.google-analytics.com^
 
 ||www.google-analytics.com/analytics.js$script
@@ -319,8 +307,6 @@ www.gamespot.com###onetrust-group-container
 gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
 www.gamespot.com##.ot-sdk-container > .ot-sdk-row
-
-gamefaqs.gamespot.com##.av-player-container
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
