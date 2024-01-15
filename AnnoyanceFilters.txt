@@ -20,18 +20,6 @@ cdn.playwire.com###zIframe_zeus-player-10
 
 www.thetechgame.com###zIframe_zeus-player-10
 
-www.gamespot.com##.vid
-
-gamefaqs.gamespot.com##.vid
-
-gamefaqs.gamespot.com##.pod.video
-
-www.gamespot.com##.pod.video
-
-gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
-
-www.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
-
 www.corriere.it###_cpmt-iframe
 
 twitter.com##.css-1dbjc4n.r-1awozwy.r-1sw30gj.r-15ce4ve.r-18u37iz.r-1d7fvdj.r-ymttw5.r-1f1sjgu.r-13qz1uu
@@ -195,8 +183,6 @@ www.corriere.it##.bck-box-newsletter
 www.tgcom24.mediaset.it###bdConsentUI
 
 gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
-
-gamefaqs.gamespot.com##.span8 > div.pod > .head
 
 search.brave.com##.svelte-10n95qb.discussion
 
