@@ -17,8 +17,6 @@ www.meteo.it##.video-floating-container.floating
 
 static3.mediasetplay.mediaset.it##.video-floating-container.floating
 
-cdn.playwire.com###zIframe_zeus-player-10
-
 www.thetechgame.com###zIframe_zeus-player-10
 
 www.corriere.it###_cpmt-iframe
