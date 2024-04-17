@@ -237,8 +237,6 @@ www.sportmediaset.mediaset.it##.floating.video-floating-container
 
 tg24.sky.it##.s-adv-top--m.advContainer
 
-||https://www.gstatic.com/cv/js/sender/v1/cast_sender.js
-
 www.startpage.com##.css-ek8qbh
 
 twitter.com##.css-1dbjc4n > div.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n
@@ -282,8 +280,6 @@ tg24.sky.it##.j-player-carousel-element.u-video-sticky
 ||www.everestjs.net^
 
 ||dpm.demdex.net^
-
-||tags.tiqcdn.com/utag/tiqapp/utag.v.js$script
 
 ||c.amazon-adsystem.com/aax2/apstag.js$script
 
