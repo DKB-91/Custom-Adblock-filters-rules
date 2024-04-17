@@ -237,10 +237,6 @@ search.brave.com##.svelte-1y0o3lb.discussion
 
 www.sportmediaset.mediaset.it##.floating.video-floating-container
 
-www.lifewire.com##.ot-sdk-columns.ot-sdk-eight
-
-www.lifewire.com###onetrust-banner-sdk > div
-
 tg24.sky.it##.s-adv-top--m.advContainer
 
 ||https://www.gstatic.com/cv/js/sender/v1/cast_sender.js
