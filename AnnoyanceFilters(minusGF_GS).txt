@@ -11,8 +11,6 @@ accounts.google.com##.css-1dbjc4n.r-11z020y.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchl
 
 www.tgcom24.mediaset.it##.video-floating-container.floating
 
-cdns.eu1.gigya.com##.video-floating-container.floating
-
 www.meteo.it##.video-floating-container.floating
 
 static3.mediasetplay.mediaset.it##.video-floating-container.floating
@@ -275,21 +273,11 @@ tg24.sky.it##.j-player-carousel-element.u-video-sticky
 
 ||play.google.com/log$domain=youtube.com
 
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script
-
-||www.everestjs.net^
-
-||dpm.demdex.net^
-
-||c.amazon-adsystem.com/aax2/apstag.js$script
-
 ||translate.google.com/_/TranslateWebserverUi/browserinfo
 
 ||www.google-analytics.com^
 
 ||www.google-analytics.com/analytics.js$script
-
-||sb.scorecardresearch.com^
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
