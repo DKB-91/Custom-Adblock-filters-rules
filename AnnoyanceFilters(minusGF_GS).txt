@@ -1,4 +1,3 @@
-
 [Adblock Plus 2.0]
 ! Title: Annoyances Filters
 ! Version: 1.0
