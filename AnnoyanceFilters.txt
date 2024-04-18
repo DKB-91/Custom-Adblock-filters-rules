@@ -324,32 +324,6 @@ tg24.sky.it##.c-login-bar
 
 tg24.sky.it##.j-player-carousel-element.u-video-sticky
 
-||jnn-pa.googleapis.com^$domain=www.youtube.com
-
-||play.google.com^$domain=www.youtube.com
-
-||www.youtube.com/youtubei/v1/log_event$domain=www.youtube.com
-
-||play.google.com/log$domain=youtube.com
-
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script
-
-||www.everestjs.net^
-
-||dpm.demdex.net^
-
-||tags.tiqcdn.com/utag/tiqapp/utag.v.js$script
-
-||c.amazon-adsystem.com/aax2/apstag.js$script
-
-||translate.google.com/_/TranslateWebserverUi/browserinfo
-
-||www.google-analytics.com^
-
-||www.google-analytics.com/analytics.js$script
-
-||sb.scorecardresearch.com^
-
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(2)
