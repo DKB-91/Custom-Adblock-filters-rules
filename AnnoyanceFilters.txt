@@ -44,14 +44,6 @@ search.brave.com##.discussion.svelte-10n95qb
 
 search.brave.com###news-carousel
 
-gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
-
-www.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
-
-gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_leader_top
-
-www.gamespot.com##.js-mapped-ad.ad.ad_leader_top
-
 www.tgcom24.mediaset.it##.iubenda-cs-content
 
 www.meteo.it##.iubenda-cs-content
@@ -341,14 +333,6 @@ tg24.sky.it##.j-player-carousel-element.u-video-sticky
 ||www.google-analytics.com/analytics.js$script
 
 ||sb.scorecardresearch.com^
-
-gamefaqs.gamespot.com###onetrust-group-container
-
-www.gamespot.com###onetrust-group-container
-
-gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
-
-www.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
