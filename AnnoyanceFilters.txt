@@ -1,4 +1,4 @@
-Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: Annoyances Filters
 ! Version: 1.0
 
@@ -9,8 +9,6 @@ accounts.google.com##.css-1dbjc4n.r-kemksi.r-16y2uox.r-1dqxon3.r-16wqof.r-11nfnu
 accounts.google.com##.css-1dbjc4n.r-11z020y.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchlnj.r-ipm5af
 
 www.tgcom24.mediaset.it##.video-floating-container.floating
-
-cdns.eu1.gigya.com##.video-floating-container.floating
 
 www.meteo.it##.video-floating-container.floating
 
@@ -96,8 +94,6 @@ platform.twitter.com##.root.on > a:nth-of-type(1)
 
 platform.twitter.com##.root.on > a:nth-of-type(1)
 
-www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
-
 www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 
 www.youtube.com##.opened
@@ -110,15 +106,11 @@ www.forbes.com##.trustarc-banner-container
 
 search.brave.com##.svelte-bagkzx.discussion
 
-gamefaqs.gamespot.com##.gs_deals.pod
-
 www.tgcom24.mediaset.it##.minf-privacy-content
 
 www.startpage.com##.footer-home__social
 
 ||cdn.search.brave.com/serp/v1/static/serp-js/telemetry/*$script,domain=search.brave.com
-
-www.foxnews.com##.sticky-columns.row > .sidebar-primary.sidebar > .sticky-region > .sidebar-columns > div.sidebar-panel > .js-on-now.has-live-stream.promo-watch-live.promo
 
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 
@@ -129,8 +121,6 @@ www.lastampa.it###account-data-container-float > .ls-login-label
 tg24.sky.it##.c-login-bar__label
 
 www.tgcom24.mediaset.it###user_name
-
-www.usnews.com##.viZuu.account-button__SignIn-sc-5e0gts-2
 
 www.sbsun.com###dfm-digisubs-menu > .menu-item-3406304.menu-item-object-custom.menu-item-type-custom.menu-item.custom-button.subscribe-special.log-in-button > [href^="https://www.sbsun.com/login"]
 
@@ -174,23 +164,9 @@ www.corriere.it##.user
 
 www.corriere.it##.bck-box-newsletter
 
-news.yahoo.com##.player
-
-news.yahoo.com##.caas-yvideo-rendered.caas-yvideo-top.caas-yvideo
-
-news.yahoo.com##.caas-yvideo-elem.caas-cover.caas-hero.yvideo.caas-yvideo-wrapper
-
-news.yahoo.com##.caas-body > .caas-yvideo-elem.yvideo.caas-yvideo-wrapper
-
-news.yahoo.com##.caas-body > h3
-
 www.tgcom24.mediaset.it###bdConsentUI
 
-gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
-
 search.brave.com##.svelte-10n95qb.discussion
-
-gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
 
 www.tgcom24.mediaset.it##.iubenda-banner-content-padded.iubenda-custom-content.iubenda-banner-content
 
@@ -256,13 +232,7 @@ search.brave.com##.svelte-1y0o3lb.discussion
 
 www.sportmediaset.mediaset.it##.floating.video-floating-container
 
-www.lifewire.com##.ot-sdk-columns.ot-sdk-eight
-
-www.lifewire.com###onetrust-banner-sdk > div
-
 tg24.sky.it##.s-adv-top--m.advContainer
-
-||https://www.gstatic.com/cv/js/sender/v1/cast_sender.js
 
 www.startpage.com##.css-ek8qbh
 
@@ -307,8 +277,6 @@ tg24.sky.it##.j-player-carousel-element.u-video-sticky
 ||www.google-analytics.com^
 
 ||www.google-analytics.com/analytics.js$script
-
-||sb.scorecardresearch.com^
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
@@ -678,16 +646,14 @@ github.com##.js-notification-shelf-offset-top.color-shadow-small.gh-header-shado
 
 search.brave.com###discussions
 
-www.gamespot.com##.vid
+gamefaqs.gamespot.com##.pod.video
 
 gamefaqs.gamespot.com##.vid
 
 gamefaqs.gamespot.com##.pod.video
 
-www.gamespot.com##.pod.video
-
-gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
+gamefaqs.gamespot.com##.av-player-container
 
 www.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
 
-gamefaqs.gamespot.com##.av-player-container
+gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
