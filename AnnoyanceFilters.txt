@@ -16,8 +16,6 @@ www.meteo.it##.video-floating-container.floating
 
 static3.mediasetplay.mediaset.it##.video-floating-container.floating
 
-cdn.playwire.com###zIframe_zeus-player-10
-
 www.thetechgame.com###zIframe_zeus-player-10
 
 www.corriere.it###_cpmt-iframe
@@ -44,31 +42,7 @@ twitter.com##.css-1dbjc4n.r-1awozwy.r-1kihuf0.r-18u37iz.r-1pi2tsx.r-1777fci.r-1p
 
 search.brave.com##.discussion.svelte-10n95qb
 
-www.gamespot.com##.vid
-
-gamefaqs.gamespot.com##.vid
-
-gamefaqs.gamespot.com##.pod.video
-
-www.gamespot.com##.pod.video
-
-gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
-
-www.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
-
-gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
-
-gamefaqs.gamespot.com##li.align-c:nth-of-type(3)
-
-gamefaqs.gamespot.com##li.align-c:nth-of-type(2)
-
-gamefaqs.gamespot.com##li.align-c:nth-of-type(1)
-
-gamefaqs.gamespot.com##li.align-c
-
-gamefaqs.gamespot.com##.RedVentureVideoPlayer__RedVentureVideoTopPlaceholder-sc-1n97vdo-0.ljGdNb
-
-gamefaqs.gamespot.com##.gs_deals.pod
+search.brave.com###news-carousel
 
 gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
 
@@ -76,25 +50,7 @@ www.gamespot.com##.js-mapped-ad.ad.ad_mpu_plus_top
 
 gamefaqs.gamespot.com##.js-mapped-ad.ad.ad_leader_top
 
-gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
-
-gamefaqs.gamespot.com##.span8 > div.pod > .head
-
-gamefaqs.gamespot.com###onetrust-group-container
-
-www.gamespot.com###onetrust-group-container
-
-gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
-
-www.gamespot.com##.ot-sdk-container > .ot-sdk-row
-
-gamefaqs.gamespot.com##.av-player-container
-
 www.gamespot.com##.js-mapped-ad.ad.ad_leader_top
-
-www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
-
-search.brave.com###news-carousel
 
 www.tgcom24.mediaset.it##.iubenda-cs-content
 
@@ -148,6 +104,8 @@ platform.twitter.com##.root.on > a:nth-of-type(1)
 
 platform.twitter.com##.root.on > a:nth-of-type(1)
 
+www.gamespot.com##.js-mapped-ad.ad.ad_mpu_bottom
+
 www.youtube.com##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
 
 www.youtube.com##.opened
@@ -160,11 +118,25 @@ www.forbes.com##.trustarc-banner-container
 
 search.brave.com##.svelte-bagkzx.discussion
 
+gamefaqs.gamespot.com##.gs_deals.pod
+
 www.tgcom24.mediaset.it##.minf-privacy-content
 
 www.startpage.com##.footer-home__social
 
+||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=957a6971-9b9a-4b78-972b-6f2e3ed6f433&requestUUID=e833a723-bf3e-407a-8b5f-0762b0999c48&preload_message=true$subdocument
+
 ||cdn.search.brave.com/serp/v1/static/serp-js/telemetry/*$script,domain=search.brave.com
+
+www.foxnews.com##.sticky-columns.row > .sidebar-primary.sidebar > .sticky-region > .sidebar-columns > div.sidebar-panel > .js-on-now.has-live-stream.promo-watch-live.promo
+
+||static.foxnews.com/static/orion/html/fox-weather/ext-weather-widget.html?uid=weather-component-external-weather-widget-1$subdocument
+
+||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=873a0cc8-ce9a-4f12-97a3-f23cca64486b&requestUUID=b963268c-9419-4dc4-a6a4-f6e3f2f0c05d&preload_message=true$subdocument
+
+||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=873a0cc8-ce9a-4f12-97a3-f23cca64486b&requestUUID=b60780ec-dc68-474f-b061-ec07d8db526d&preload_message=true$subdocument
+
+||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=873a0cc8-ce9a-4f12-97a3-f23cca64486b&requestUUID=42735711-7867-450d-9d57-759d6c36cd1a&preload_message=true$subdocument
 
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 
@@ -175,6 +147,8 @@ www.lastampa.it###account-data-container-float > .ls-login-label
 tg24.sky.it##.c-login-bar__label
 
 www.tgcom24.mediaset.it###user_name
+
+www.usnews.com##.viZuu.account-button__SignIn-sc-5e0gts-2
 
 www.sbsun.com###dfm-digisubs-menu > .menu-item-3406304.menu-item-object-custom.menu-item-type-custom.menu-item.custom-button.subscribe-special.log-in-button > [href^="https://www.sbsun.com/login"]
 
@@ -218,9 +192,23 @@ www.corriere.it##.user
 
 www.corriere.it##.bck-box-newsletter
 
+news.yahoo.com##.player
+
+news.yahoo.com##.caas-yvideo-rendered.caas-yvideo-top.caas-yvideo
+
+news.yahoo.com##.caas-yvideo-elem.caas-cover.caas-hero.yvideo.caas-yvideo-wrapper
+
+news.yahoo.com##.caas-body > .caas-yvideo-elem.yvideo.caas-yvideo-wrapper
+
+news.yahoo.com##.caas-body > h3
+
 www.tgcom24.mediaset.it###bdConsentUI
 
+gamefaqs.gamespot.com##.full-link.full.sidebar.pod_list.pod
+
 search.brave.com##.svelte-10n95qb.discussion
+
+gamefaqs.gamespot.com##.ad_mobile-banner.ad.js-mapped-ad > .ad_wrap
 
 www.tgcom24.mediaset.it##.iubenda-banner-content-padded.iubenda-custom-content.iubenda-banner-content
 
@@ -245,6 +233,8 @@ www.startpage.com##[href="https://www.facebook.com/startpagesearch/"]
 www.startpage.com##[href="https://mastodon.social/@StartpageSearch"]
 
 www.startpage.com##[href="https://www.youtube.com/user/StartpageSearch"]
+
+||sourcepoint.theguardian.com/index.html?message_id=658013&consentUUID=5c9a0761-2c78-44b5-bd45-750d404cf368&requestUUID=38ab73bd-1dea-42f4-a97d-3795eed224cb&preload_message=true$subdocument
 
 m.youtube.com##ytm-reel-shelf-renderer
 
@@ -323,6 +313,42 @@ tg24.sky.it##.c-login-bar__personalize
 tg24.sky.it##.c-login-bar
 
 tg24.sky.it##.j-player-carousel-element.u-video-sticky
+
+||jnn-pa.googleapis.com^$domain=www.youtube.com
+
+||play.google.com^$domain=www.youtube.com
+
+||www.youtube.com/youtubei/v1/log_event$domain=www.youtube.com
+
+||play.google.com/log$domain=youtube.com
+
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script
+
+||www.everestjs.net^
+
+||dpm.demdex.net^
+
+||tags.tiqcdn.com/utag/tiqapp/utag.v.js$script
+
+||c.amazon-adsystem.com/aax2/apstag.js$script
+
+||translate.google.com/_/TranslateWebserverUi/browserinfo
+
+||saa.gamespot.com^$script,domain=gamefaqs.gamespot.com
+
+||www.google-analytics.com^
+
+||www.google-analytics.com/analytics.js$script
+
+||sb.scorecardresearch.com^
+
+gamefaqs.gamespot.com###onetrust-group-container
+
+www.gamespot.com###onetrust-group-container
+
+gamefaqs.gamespot.com##.ot-sdk-container > .ot-sdk-row
+
+www.gamespot.com##.ot-sdk-container > .ot-sdk-row
 
 tvtropes.org##div.square_fad.mobile-fad.tvtropes-ad-unit:nth-of-type(1)
 
@@ -691,3 +717,17 @@ github.com##.is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky
 github.com##.js-notification-shelf-offset-top.color-shadow-small.gh-header-shadow
 
 search.brave.com###discussions
+
+www.gamespot.com##.vid
+
+gamefaqs.gamespot.com##.vid
+
+gamefaqs.gamespot.com##.pod.video
+
+www.gamespot.com##.pod.video
+
+gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
+
+www.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
+
+gamefaqs.gamespot.com##.av-player-container
