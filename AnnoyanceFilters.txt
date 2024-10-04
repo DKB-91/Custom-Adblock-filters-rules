@@ -644,6 +644,10 @@ github.com##.is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky
 
 github.com##.js-notification-shelf-offset-top.color-shadow-small.gh-header-shadow
 
+/pagead.js$domain=d3ward.github.io
+
+/widget/ads
+
 search.brave.com###discussions
 
 gamefaqs.gamespot.com##.pod.video
