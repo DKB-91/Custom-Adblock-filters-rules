@@ -636,6 +636,10 @@ m.youtube.com##.eom-dialog-container
 
 m.youtube.com##.consent-bump-v2-lightbox
 
+/pagead.js$domain=d3ward.github.io
+
+/widget/ads
+
 search.brave.com##.svelte-7j8x1w.discussion
 
 github.com##.sticky-content > .flex-items-center.d-flex
