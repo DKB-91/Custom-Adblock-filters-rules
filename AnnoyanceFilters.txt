@@ -661,3 +661,9 @@ gamefaqs.gamespot.com##.av-player-container
 www.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
 
 gamefaqs.gamespot.com##.span8 > div.pod:nth-of-type(2) > .head
+
+search.brave.com##.svelte-1ifkynz.noscrollbar.example-searches
+
+search.brave.com##.svelte-1tr3rxr.download-cta
+
+##.svelte-1tr3rxr.noscript-hide.noscrollbar.example-searches
