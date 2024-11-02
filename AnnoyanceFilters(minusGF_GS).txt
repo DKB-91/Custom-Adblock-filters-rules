@@ -649,3 +649,9 @@ github.com##.is-stuck.gh-header-sticky.top-0.js-sticky-offset-scroll.js-sticky
 github.com##.js-notification-shelf-offset-top.color-shadow-small.gh-header-shadow
 
 search.brave.com###discussions
+
+search.brave.com##.svelte-1ifkynz.noscrollbar.example-searches
+
+search.brave.com##.svelte-1tr3rxr.download-cta
+
+##.svelte-1tr3rxr.noscript-hide.noscrollbar.example-searches
